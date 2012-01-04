@@ -1,5 +1,10 @@
 gem 'activerecord', '~> 2.3'
 
+##
+# &copy; 2011 Andrew Coleman
+# Released under MIT license.
+# http://www.opensource.org/licenses/mit-license.php
+#
 module Consolo
   module IgnoreAssociationStringAssignment
     module ClassMethods
